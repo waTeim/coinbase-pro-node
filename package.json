@@ -1,6 +1,6 @@
 {
   "name": "coinbase-pro",
-  "version": "0.9.3",
+  "version": "0.10.0",
   "author": "Coinbase",
   "bugs": "https://github.com/coinbase/coinbase-pro-node/issues",
   "contributors": [
@@ -24,6 +24,7 @@
     "@types/request": "2.48.1",
     "bignumber.js": "^8.1.1",
     "bintrees": "^1.0.1",
+    "circular-buffer": "^1.0.2",
     "request": "^2.81.0",
     "ws": "^7.0.0"
   },
